@@ -1,0 +1,9 @@
+.con{
+    position: relative;
+    left: 0;
+    margin-bottom: 0;
+    width: 100%;
+    background-color: dimgrey;
+    height: 80px;
+    color: rgb(9, 83, 243);
+    text-align: center;

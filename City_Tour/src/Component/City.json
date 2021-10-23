@@ -1,0 +1,86 @@
+{
+    "City":[
+             {
+               "c_name":"Gulmarg",
+               "c_description":"Hill Station", 
+               "c_images":"../../../gulmarg.jpg" ,
+               "subcatogory":[
+                                 {
+                                  "s_name":"Gulmarg Gondola",
+                                   "s_img":"../../../Images/gulgon.jpg",
+                                   "s_des":"Gulmarg Gondola in Gulmarg, Jammu and Kashmir, an administered union territory of India is a high altitude cable car Higher lines include the Dagu Glacier Gondola."
+                                 },
+                                 {
+                                   "s_name":"Alpather Lake",
+                                   "s_img":"../../../Images/alpalk.jpg",
+                                   "s_des":"A spot of brilliant blue surrounded by snow-crowned mountains, green meadows and pretty wildflowers is how the mesmeric Alpather Lake looks from the sky. It looks even more surreal during the months of November to mid-June when the lake freezes over and ducks can be seen walking on it rather than swimming."
+                                 },
+                                 {
+                                   "s_name":"Shiva Temple",
+                                   "s_img":"../../../Images/shiv.jpg",
+                                   "s_des":"The Shiva temple also known as Rani Temple or Maharani Temple, is situated on a small hillock in the centre of Gulmarg"
+                                 },
+                                 {
+                                   "s_name":"Apharwat Peak",
+                                   "s_img":"../../../Images/apjpk.jpg",
+                                   "s_des":"Apharwat Peak is a summit, situated at a height of 4,390 metres above the sea level, in Gulmarg. It receives heavy snowfall and remains covered with snow for much of the year. The Line of Control is barely a few kilometres away from here."
+                                 }
+   
+                              ] 
+             },
+             {
+               "c_name":"Srinagar",
+               "c_description":"Capital Of Jammu",
+               "c_images":"../../../sri.jpg",
+               "subcatogory":[
+                              {
+                                "s_name":"Dal Lake",
+                                "s_img":"../../../Images/dlke.jpg",
+                                "s_des":"It is an urban lake, which is the second largest in the union territory of Jammu and Kashmir. It is integral to tourism and recreation in Kashmir and is named the Lake of Flowers, Jewel in the crown of Kashmir or Srinagar's Jewel."
+                              },
+                              {
+                                "s_name":"Indira Gandhi Memorial Tulip Garden",
+                                "s_img":"../../../Images/garden.jpg",
+                                "s_des":"It is the largest tulip garden in Asia spread over an area of about 30 ha. It is situated on the foothills of Zabarwan Range with an overview of Dal Lake."
+                              },
+                              {
+                                "s_name":"Sonamarg",
+                                "s_img":"../../../Images/smg.jpg",
+                                "s_des":"Sonamarg had historical significance as a gateway on the ancient Silk Road, connecting Jammu and Kashmir with Tibet.Today, the hill station is a popular tourist destination amongst fishers and hikers, and following the Kargil War with neighbouring Pakistan in 1999, serves as a strategically important point for the Indian Army."
+                              },
+                              {
+                                "s_name":"Shankaracharya Hill",
+                                "s_img":"../../../Images/hill.jpg",
+                                "s_des":"It is famous for the sacred Shankaracharya Temple, also known as Jyeshteswara, which occupies the top of the hill. It is the destination of hundreds of tourists each day. The hill top affords a commanding view of the Kashmir Valley for tens of miles."
+                              }
+                             ]
+             },
+             {
+               "c_name":"pahalgam",
+               "c_description":"Hill station in the north Indian state of Jammu and Kashmir",
+               "c_images":"../../../pg.jpg",
+               "subcatogory":[
+                               {
+                                 "s_name":"Aru Valley",
+                                 "s_img":"../../../Images/aru.jpg",
+                                 "s_des":"There are about 20 alpine lakes, peaks and meadows around the Aru Valley. In the winters, when Aru receives heavy snowfall, skiing and heliskiing are practiced. Other popular tourist activities include fishing of trout in the Lidder river, trekking, hiking, horse riding, sightseeing and photography.The village is a base camp for trekkers to the Kolahoi Glacier, the Tarsar-Marsar lakes and the Katrinag valley. "
+                               },
+                               {
+                                 "s_name":"Vale Of Kashmir",
+                                 "s_img":"../../../Images/kasva.jpg",
+                                 "s_des":"The Kashmir Valley, also known as the Vale of Kashmir, is an intermontane valley in Kashmir.The valley is bounded on the southwest by the Pir Panjal Range and on the northeast by the main Himalayas range. It is approximately 135 km (84 mi) long and 32 km (20 mi) wide, and drained by the Jhelum River."
+                               },
+                               {
+                                 "s_name":"Tulian Lake",
+                                 "s_img":"../../../Images/tla.jpg",
+                                 "s_des":"Tulian Lake a lake and tourist destination at Pahalgam in Anantnag District of the union territory of Jammu and Kashmir, India. It lies at an altitude of 3,684 metres above sea level, 16 kilometres southwest from Pahalgam and 11 kilometres from Baisaran. The lake often has chunks of ice floating in it."
+                               },
+                               {
+                                 "s_name":"Sheshnag Lake",
+                                 "s_img":"../../../Images/shes.jpg",
+                                 "s_des":"Sheshnag Lake  is an alpine high altitude oligotrophic lake situated at the track leading to Amarnath cave 23 kilometers from Pahalgam in Anantnag district of Kashmir valley in the Indian union territory of Jammu and Kashmir at an elevation of 3590 meters. It has a maximum length of 1.1 kilometers and maximum width of 0.7 kilometers."
+                               }
+                             ]
+             }
+    ]
+   }

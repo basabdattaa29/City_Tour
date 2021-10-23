@@ -1,0 +1,21 @@
+.container{
+    position: relative;
+    width: 400px;
+    height:400px;
+
+    text-align: center;
+    padding: 50px;
+  }
+  .btn{
+
+    cursor: pointer;
+    width: 150px;
+}
+.frm{
+    border: 10px solid #94a89d96;
+    margin-top: 20px;
+    padding: 20px;
+    width: 400px;
+    height: 350px;
+    background-color: rgb(17, 42, 58);
+  }

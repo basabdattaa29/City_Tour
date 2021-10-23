@@ -1,0 +1,32 @@
+.img{
+    height:100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+
+
+}
+.card{
+    width: 60%;
+    background-color: rgb(214, 205, 205);
+    border-radius: 5x;
+    margin: 40px;
+    box-shadow: 2px 2px 10px black;
+
+
+}
+
+.com{
+    margin-top: 30px;
+}
+.butn{
+
+    border: 1px solid black;
+    border-radius: 5px;
+
+    background-color: rgb(213, 213, 230);
+}
+.butn:hover{
+    background-color: black;
+    color: white;
+   transition: 5px;
+}

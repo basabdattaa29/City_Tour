@@ -1,0 +1,39 @@
+.formaction
+{
+border: 5px solid rgb(209, 159, 238);
+color: #7c89d3;
+text-align: center;
+}
+.firstname{
+width: 60%;
+padding: 5px 7px;
+margin: 5px 0;
+}
+.lastname{
+width: 60%;
+padding: 5px 7px;
+margin: 5px 0;
+}
+.email{
+width: 60%;
+padding: 5px 7px;
+margin: 5px 0;       
+}
+.password{
+width: 60%;
+padding: 5px 7px;
+margin: 5px 0;   
+}
+.phnumber{
+width: 60%;
+padding: 5px 7px;
+margin: 5px 0;    
+}
+.submit{
+width: 40%;
+padding: 6px 8px;
+margin: 6px 0;  
+border-radius: 2px;  
+color: rgb(12, 14, 12);
+background-color: rgb(227, 230, 78);
+}

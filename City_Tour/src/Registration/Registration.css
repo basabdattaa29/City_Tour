@@ -1,0 +1,39 @@
+.container{
+    text-align: center;
+}
+.name{
+    width:80%;
+    padding:2px 5px;
+    color: black;
+    border: 4px solid gray;
+}
+
+.phno{
+    width:90%;
+    border: 4px solid gray;   
+}
+.address{
+    width:90%;
+    border: 4px solid gray;  
+}
+.city{
+    width:90%;
+    border: 4px solid gray;    
+}
+.email{
+    width:90%;
+    border: 4px solid gray;  
+}
+.password{
+    width:90%;
+    border: 4px solid gray;  
+}
+.btn{
+    width: 100px;
+    cursor: pointer;
+    background-color: rgba(9, 228, 199, 0.932);
+}
+.lgnbtn{
+    width: 150px;
+    cursor: pointer;
+    background-color: rgba(9, 228, 199, 0.932);

@@ -1,0 +1,82 @@
+{
+  "Product":[
+             {
+               "p_name":"Mobile",
+               "p_id":"P01",
+               "description":"Mobile phone",
+               "subCatagory":[
+                               {
+                                   "s_id":"PS01",
+                                   "company":"Samsung",
+                                   "price": "Rs17000",
+                                   "s_img":"../../../Images/pic1.jpg",
+                                   "s_des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+                               },
+                               {
+                                "s_id":"PS02",
+                                "company":"Redmi",
+                                "price":"Rs15000",
+                                "s_img":"../../../Images/pic2.png",
+                                "s_des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+                               },
+                               {
+                                   "s_id":"PS03",
+                                   "company":"Nokia",
+                                   "price":"Rs10000",
+                                   "s_img":"../../../Images/pic3.png",
+                                   "s_des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+                               }
+                             ]
+             },
+            {
+                "p_name":"Laptop",
+                "p_id":"P02",
+                "description":"personal computer",
+                "subCatagory":[
+                                {
+                                   "s_id":"PS04",
+                                   "company":"Lenovo",
+                                   "price":"Rs420000" ,
+                                   "s_img":"../../../Images/img1.jpg",
+                                   "s_des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+
+                                },
+                                {
+                                  "s_id":"PS05",
+                                  "company":"HP",
+                                  "price":"Rs400000",
+                                  "s_img":"../../Images/img2.jpg" 
+                                },
+                                {
+                                 "s_id":"PS06",
+                                 "company":"Dell",
+                                 "price":"Rs450000",
+                                 "s_img":"../../../Images/img3.jpg"
+                                }
+                              ]
+            },
+            {
+             "p_name":"Tablet",
+             "p_id":"P03",
+             "description": "tab",
+             "subCatagory":[
+                             {
+                                 "s_id":"PS07",
+                                 "company":"Lenovo",
+                                 "price":"Rs12000",
+                                 "s_img":"../../../Images/img5.jpg",
+                                 "s_des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+                             },
+                             {
+                                 "s_id":"PS08",
+                                 "company":"HP",
+                                 "price":"Rs14000",
+                                 "s_img":"../../../Images/img4.jpg",
+                                 "s_des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+                             }
+                                
+                           ]   
+            } 
+
+  ]  
+}
